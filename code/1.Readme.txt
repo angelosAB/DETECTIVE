@@ -1,0 +1,19 @@
+This zip file contains three sub-files: Methods, Real_Data and Simulation
+
+Methods: consists of all methods used in simulation and real-data analysis. 
+- CAT: the proposed covariate-assisted multi-layer community detection
+- JEG: Joint Graph Embedding method
+- LSM: Least square estimation
+- MAS: Spectral Aggregation
+
+Real Data: consists of two sub-files: Business data and Citation Network.
+- Business data: contains files about how we pre-process the original data and the codes for
+getting stocks prices and the associated numerical experiments.
+
+- Citation Network:  contains files of codes for how we pre-process the network data and 
+the codes for the associated numerical experiments.
+
+Simulation: consists of three simulation settings.
+
+For each setting, Codes for reproducible experiments, how we present the results as in the paper, and
+the result files in .npy are available.
